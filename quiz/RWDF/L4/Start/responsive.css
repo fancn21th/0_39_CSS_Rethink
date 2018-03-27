@@ -86,5 +86,9 @@
 }
 
 @media screen and (min-width: 850px) {
-
+    main, .header__inner, .nav {
+        width: 850px;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
