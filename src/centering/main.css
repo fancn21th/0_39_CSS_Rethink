@@ -73,6 +73,7 @@ h1 {
   background-color: blue;
 }
 
+/* text centering alignment */
 div>div {
   display: table;
 }
