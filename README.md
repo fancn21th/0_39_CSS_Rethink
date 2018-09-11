@@ -1,2 +1,7 @@
 # 0_39_CSS_Rethink
-Recap and Rethink in CSS,  Responsive Design
+
+## legacy branch
+
+## new master branch
+
+* css centering no more
