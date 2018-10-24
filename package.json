@@ -1,8 +1,7 @@
 {
-  "name": "0_39_CSS_Rethink",
+  "name": "0_39_css_rethink",
   "version": "1.0.0",
   "description": "* css centering no more",
-  "main": "index.js",
   "scripts": {
     "start": "live-server src",
     "test": "echo \"Error: no test specified\" && exit 1"
